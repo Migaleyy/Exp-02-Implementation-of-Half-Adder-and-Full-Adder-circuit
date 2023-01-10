@@ -52,6 +52,7 @@ RTL realization
 Half adder
 
 ![image](https://user-images.githubusercontent.com/118262199/210506776-31a3416e-8f42-4276-b7ba-01763f99ba18.png)
+
 Full adder
 
 ![image](https://user-images.githubusercontent.com/118262199/210506812-5f050eae-bc25-4da2-9b0a-fc119b34a456.png)
