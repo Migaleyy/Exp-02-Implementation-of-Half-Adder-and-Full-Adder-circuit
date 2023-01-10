@@ -39,23 +39,35 @@ Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: 
-RegisterNumber:  22006541
-*/
+RegisterNumber:  22006541*/
+
 Logic symbol & Truthtable
+
 ![logic-gates](https://user-images.githubusercontent.com/118262199/210506207-a0309d54-6b13-48db-81f2-eaedd9de51f6.jpg)
 
 RTL realization
 
 ### Output:
 ### RTL
+![image](https://user-images.githubusercontent.com/118262199/210506776-31a3416e-8f42-4276-b7ba-01763f99ba18.png)
 
+![image](https://user-images.githubusercontent.com/118262199/210506812-5f050eae-bc25-4da2-9b0a-fc119b34a456.png)
 ### TIMING DIAGRAM
 Half adder
-![image](https://user-images.githubusercontent.com/118262199/210506776-31a3416e-8f42-4276-b7ba-01763f99ba18.png)
+
+![half adder exp 2](https://user-images.githubusercontent.com/118262199/211452203-77341df4-0ac4-4bf1-a2d8-8fc47c2748a4.png)
+
 Full adder
-![image](https://user-images.githubusercontent.com/118262199/210506812-5f050eae-bc25-4da2-9b0a-fc119b34a456.png)
+
+![full adder exp 2](https://user-images.githubusercontent.com/118262199/211452231-640295dc-a391-43d2-8e88-2d1c017cacd2.png)
+
 
 ### TRUTH TABLE 
+
+![truth table half adder'](https://user-images.githubusercontent.com/118262199/211452311-5d7cd5b4-cec5-4fa8-967c-58d6a34d44c2.png)
+
+![truth table full adder](https://user-images.githubusercontent.com/118262199/211452317-004ef2d4-e6c7-43c0-9cd8-fbcf6b91d19c.png)
+
 ### Result:
 Thus the different digital IC's are studied and the truth table for differnt logic gates are verified.
 
